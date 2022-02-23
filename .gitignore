@@ -1,2 +1,4 @@
 /study_first_time/target/
 /.idea/uiDesigner.xml
+/.idea
+*.iml

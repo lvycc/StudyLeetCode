@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @date 2022/2/23
  * @description
  */
-public class LeetCode_561_数组拆分I {
+public class LeetCode_561_贪心_数组拆分I {
 
     /**
      * 排序后取每次取第二大的数字进行累加即可

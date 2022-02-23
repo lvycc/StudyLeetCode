@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @date 2022/2/23
  * @description
  */
-public class LeetCode_455_分发饼干 {
+public class LeetCode_455_贪心_分发饼干 {
 
     /**
      * 拉闸写法双重遍历

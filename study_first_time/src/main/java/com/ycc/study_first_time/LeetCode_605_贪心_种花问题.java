@@ -5,7 +5,7 @@ package com.ycc.study_first_time;
  * @date 2022/2/23
  * @description
  */
-public class LeetCode_605_种花问题 {
+public class LeetCode_605_贪心_种花问题 {
 
     /**
      * 取局部最优解，一个位置可以种花那么它的上一个位置和下一个位置都要为0，种花后的位置设置为1

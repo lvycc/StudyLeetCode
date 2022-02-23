@@ -11,7 +11,7 @@ import java.util.Map;
  * 采用Hash表对中间数据进行缓存，达到遍历一遍即可计算出结果的效果
  *
  */
-public class LeetCode_01_两数之和 {
+public class LeetCode_01_哈希表_两数之和 {
 
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> cacheMap = new HashMap<>();

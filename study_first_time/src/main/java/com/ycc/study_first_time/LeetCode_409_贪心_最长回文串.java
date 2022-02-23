@@ -8,7 +8,7 @@ import java.util.Map;
  * @date 2022/2/22
  * @description 最长回文子串
  */
-public class LeetCode_409_最长回文串 {
+public class LeetCode_409_贪心_最长回文串 {
 
     class Solution {
         public int longestPalindrome(String s) {

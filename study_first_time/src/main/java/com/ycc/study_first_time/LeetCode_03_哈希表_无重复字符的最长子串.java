@@ -8,7 +8,7 @@ import java.util.Map;
  * @date 2022/2/22
  * @desc
  */
-public class LeetCode_03_无重复字符的最长子串 {
+public class LeetCode_03_哈希表_无重复字符的最长子串 {
 
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring(""));

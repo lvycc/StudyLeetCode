@@ -5,7 +5,7 @@ package com.ycc.study_first_time;
  * @date 2022/2/23
  * @description
  */
-public class LeetCode_11_盛最多水的容器 {
+public class LeetCode_11_贪心_盛最多水的容器 {
 
     /**
      * 采用双指针求解最大面积，每次求解后移动高度较小的指针，直至两指针相遇
