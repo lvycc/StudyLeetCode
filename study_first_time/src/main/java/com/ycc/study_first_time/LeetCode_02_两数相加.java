@@ -5,7 +5,7 @@ package com.ycc.study_first_time;
  * @date 2022/2/21
  * @desc
  */
-public class LeetCode_02_addTowNumbers {
+public class LeetCode_02_两数相加 {
 
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2);
